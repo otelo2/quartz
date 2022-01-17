@@ -12,9 +12,9 @@ This site will be updated regularly with each new note.
 ## All notes
 
 * [All notes](/notes)
-* [Test note](/notes/test)
-* [Test note 2](/notes/folder1/test_copy)
-* [Test note 3](/notes/folder1/folder2/test_copy_2)
+* [Big Data New Opportunities and New Challenges](/notes/Big-Data-New-Opportunities-and-New-Challenges/Big-Data-New-Opportunities-and-New-Challenges.md)
+* [What Next A Half-Dozen Data Management Research Goals for Big Data and the Cloud](/notes/What-Next-A-Half-Dozen-Data-Management-Research-Goals-for-Big-Data-and-the-Cloud/What-Next-A-Half-Dozen-Data-Management-Research-Goals-for-Big-Data-and-the-Cloud.md)
+
 
 ## About me
 
@@ -22,4 +22,4 @@ This site will be updated regularly with each new note.
 
 > 👨‍💻 Name: José Antonio Solís Martínez
 
-> 📧 email: jose.solismz@udlap.mx
+> 📧 Email: jose.solismz@udlap.mx
