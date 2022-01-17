@@ -4,7 +4,7 @@ This website is a fork of the awesome Quartz project. If you use obsidian you sh
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
-# What is this
+# What is this?
 
 This is a repository for all the notes about the readings of the cloud computing and big data course.
 

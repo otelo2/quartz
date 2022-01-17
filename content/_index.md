@@ -11,11 +11,15 @@ This site will be updated regularly with each new note.
 
 ## All notes
 
-1. [Test](content/notes/test.md)
-2. [Test nested](content/notes/folder1/test copy.md)
-3. [Test nested2](content/notes/folder1/folder2/test copy 2.md)
+* [All notes](/notes)
+* [Test note](/notes/test)
+* [Test note 2](/notes/folder1/test_copy)
+* [Test note 3](/notes/folder1/folder2/test_copy_2)
+
 ## About me
 
 > 🔢 ID: 162442
+
 > 👨‍💻 Name: José Antonio Solís Martínez
+
 > 📧 email: jose.solismz@udlap.mx
