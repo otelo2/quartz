@@ -1,26 +1,16 @@
 ---
-title: 🪴 Quartz 3
+title: Notes space
 ---
-Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
-1. Extremely fast full-text search by pressing `/`
-2. Display for backlinks of each note
-3. Fully customizable local graph view
-4. Endlessly powerful page and theme customization using CSS
-5. Automatically generated tag and section lists of content
-6. Beautiful link previews
+This is a space for storing the notes made about the readings of the cloud computing and big data course.
 
-## Get Started
-> 📚 [Setup your own digital garden using Quartz](notes/setup.md)
+Each reading has its own folder, and each folder has its own file.
 
-Not convinced yet? Look at some [community digital gardens](notes/showcase.md) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with!
+You may find the notes by using the table of contents above, or by using the search bar.
 
-## Content Lists
-If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
+This site will be updated regularly with each new note.
 
-- [All Notes](/notes)
-- [Setup-related Notes](/tags/setup)
+## About me
 
-## Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+> 🔢 ID: 162442
+> 👨‍💻 Name: José Antonio Solís Martínez
+> 📧 email: jose.solismz@udlap.mx
