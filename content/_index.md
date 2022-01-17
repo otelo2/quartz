@@ -9,6 +9,11 @@ You may find the notes by using the table of contents above, or by using the sea
 
 This site will be updated regularly with each new note.
 
+## All notes
+
+1. [Test](content/notes/test.md)
+2. [Test nested](content/notes/folder1/test copy.md)
+3. [Test nested2](content/notes/folder1/folder2/test copy 2.md)
 ## About me
 
 > 🔢 ID: 162442
