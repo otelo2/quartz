@@ -12,7 +12,7 @@ This site will be updated regularly with each new note.
 ## Notes index
 
 * [All notes](/notes)
-* Hands On 1:
+* Partial-Evaluation 1:
     * [MongoDB Querying](/notes/Hands-On-1-MongoDB-Querying.pdf)
     * [MongoDB Sharding](/notes/Hands-On-1-MongoDB-Sharding.pdf)
 * Readings:
