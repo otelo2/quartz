@@ -15,6 +15,8 @@ This site will be updated regularly with each new note.
 * Partial-Evaluation 1:
     * [MongoDB Querying](/notes/Hands-On-1-MongoDB-Querying.pdf)
     * [MongoDB Sharding](/notes/Hands-On-1-MongoDB-Sharding.pdf)
+* Use Case 1:
+    * [Use Case 1: Polyglot Persistence](/notes/Polyglot-Data-management-on-the-Cloud.pdf)
 * Readings:
     * [Big Data New Opportunities and New Challenges](/notes/Big%20Data%20New%20Opportunities%20and%20New%20Challenges/Big%20Data%20New%20Opportunities%20and%20New%20Challenges.md)
     * [What Next A Half-Dozen Data Management Research Goals for Big Data and the Cloud](/notes/What%20Next%20A%20Half-Dozen%20Data%20Management%20Research%20Goals%20for%20Big%20Data%20and%20the%20Cloud/What%20Next%20A%20Half-Dozen%20Data%20Management%20Research%20Goals%20for%20Big%20Data%20and%20the%20Cloud.md)
