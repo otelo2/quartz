@@ -26,6 +26,8 @@ This site will be updated regularly with each new note.
     * [Understanding the CAP Theorem and its No Relationship to Scalabilit](/notes/What%20Next%20A%20Half-Dozen%20Data%20Management%20Research%20Goals%20for%20Big%20Data%20and%20the%20Cloud/What%20Next%20A%20Half-Dozen%20Data%20Management%20Research%20Goals%20for%20Big%20Data%20and%20the%20Cloud.md)
     * [SQL databases v. NoSQL databases](/notes/Big%20Data%20New%20Opportunities%20and%20New%20Challenges/Big%20Data%20New%20Opportunities%20and%20New%20Challenges.md)
     * [A survey on NoSQL stores.](/notes/What%20Next%20A%20Half-Dozen%20Data%20Management%20Research%20Goals%20for%20Big%20Data%20and%20the%20Cloud/What%20Next%20A%20Half-Dozen%20Data%20Management%20Research%20Goals%20for%20Big%20Data%20and%20the%20Cloud.md)
+ * Final video:
+   * [4 tips to help you take your businesses big data processing to the cloud](https://youtu.be/zysXJKgqfa8)
 
 
 ## About me
